@@ -22,10 +22,10 @@
             <Duration>00:00:52</Duration>
             <MediaFiles>
 			  <MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="1500" width="720" height="480">
-                <![CDATA[http://www.webdesign-flash.ro/p/evp/content/videos/a720.mp4]]>
+                <![CDATA[https://adnan.pages.dev/]]>
               </MediaFile>
               <MediaFile id="2" delivery="progressive" type="video/mp4" bitrate="356" width="480" height="260">
-                <![CDATA[http://www.webdesign-flash.ro/p/evp/content/videos/a480.mp4]]>
+                <![CDATA[https://adnan.pages.dev/]]>
               </MediaFile>
               <Mezzanine>
                 <![CDATA[http://example.com/beacon?type=complete&imprid=s5-ea2f7f298e28c0c98374491aec3dfeb1&ts=4235]]>
@@ -33,7 +33,7 @@
             </MediaFiles>
             <VideoClicks>
               <ClickThrough id="blog">
-                <![CDATA[http://www.webdesign-flash.ro]]>
+                <![CDATA[https://adnan.pages.dev/]]>
               </ClickThrough>
             </VideoClicks>
           </Linear>
@@ -56,7 +56,7 @@
 				</VideoClicks>
 				<MediaFiles>
 				 <MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="356" width="480" height="260">
-					<![CDATA[http://www.webdesign-flash.ro/p/evp/content/videos/b480.mp4]]>
+					<![CDATA[https://adnan.pages.dev/]]>
 				</MediaFile>
 				</MediaFiles>
 			  </Linear>
